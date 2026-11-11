@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">MILION mascot</title>
+  <desc id="desc">A white rounded four-point star with two black oval eyes.</desc>
+  <path
+    d="M50 3
+       C56 3 59 10 63 22
+       C67 34 66 34 78 34
+       C90 34 97 40 97 50
+       C97 60 90 66 78 66
+       C66 66 67 66 63 78
+       C59 90 56 97 50 97
+       C44 97 41 90 37 78
+       C33 66 34 66 22 66
+       C10 66 3 60 3 50
+       C3 40 10 34 22 34
+       C34 34 33 34 37 22
+       C41 10 44 3 50 3Z"
+    fill="#FFFFFF"
+  />
+  <ellipse cx="40" cy="49" rx="3.7" ry="5.2" fill="#111111"/>
+  <ellipse cx="60" cy="49" rx="3.7" ry="5.2" fill="#111111"/>
+</svg>
