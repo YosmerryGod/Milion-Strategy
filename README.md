@@ -281,3 +281,60 @@ Features and implementation details beyond this scope remain open for future pro
 This README records the current product direction and approved brand/hero decisions. It is a planning document, not a claim that the described features have already been implemented.
 
 Design, architecture, marketplace rules, buyer licensing, payment flows, and backtesting specifications will be detailed and confirmed as the project progresses.
+
+
+---
+
+## 11. Landing Page Design Direction
+
+The current homepage direction is a clean, minimal, mobile-first landing page. Its purpose is to introduce MILION and explain the product—not to act as a trading dashboard.
+
+### Visual direction
+
+- Deep black background with white typography.
+- Electric blue used sparingly as the primary accent.
+- Use the approved MILION four-point mascot from `public/milion-logo.svg`.
+- Bold, concise typography and generous spacing.
+- Keep the layout focused; avoid decorative cards, fabricated metrics, market widgets, and dashboard elements on the homepage.
+
+### Navigation and hero
+
+- The navbar contains the MILION brand, a single **Get Started** CTA, and a compact menu button.
+- Do not show Login or Connect Wallet on the public homepage.
+- Do not include a Watch Demo CTA.
+- Keep the hero focused on the product message.
+
+**Headline**
+
+> BEYOND EVERY STRATEGY.
+
+**Description**
+
+> Build, backtest, validate, and publish trading strategies with the help of leading AI chat models.
+
+### AI ecosystem section
+
+Below the hero, introduce the AI ecosystem with the heading:
+
+> WORKS WITH LEADING AI CHAT
+
+The planned provider ecosystem includes:
+
+- ChatGPT
+- Claude
+- Gemini
+- Grok
+- Kimi AI
+- DeepSeek
+- And more
+
+Provider names and logos communicate the intended multi-AI direction. They must not be presented as active integrations until each provider integration is actually implemented and available.
+
+### Current visual reference
+
+The mobile homepage concept is stored at:
+
+`public/frontend/homepage-mobile.svg`
+
+This is a visual reference for the approved direction, not a production implementation. The desktop landing page should use the same brand, copy, and visual language with a layout adapted for wider screens.
+
