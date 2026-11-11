@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
-  <title id="title">MILION mascot</title>
-  <desc id="desc">A white soft-edged four-point mascot with two black oval eyes.</desc>
-  <path
-    d="M50 2
-       C43 2 41 13 37 25
-       C34 34 32 35 22 35
-       C10 35 2 41 2 50
-       C2 59 10 65 22 65
-       C32 65 34 66 37 75
-       C41 87 43 98 50 98
-       C57 98 59 87 63 75
-       C66 66 68 65 78 65
-       C90 65 98 59 98 50
-       C98 41 90 35 78 35
-       C68 35 66 34 63 25
-       C59 13 57 2 50 2Z"
-    fill="#FFFFFF"
-  />
-  <ellipse cx="39" cy="50" rx="4.1" ry="5.8" fill="#111111"/>
-  <ellipse cx="61" cy="50" rx="4.1" ry="5.8" fill="#111111"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" width="1254" height="1254">
+  <rect width="1254" height="1254" fill="#000"/>
+  <path fill="#fff" d="
+    M590,325
+    C600,298 612,286 627,286
+    C642,286 655,298 665,325
+    C720,470 820,550 935,588
+    C960,598 970,612 970,627
+    C970,642 960,656 935,665
+    C820,705 720,790 668,925
+    C655,952 642,964 627,964
+    C612,964 600,952 590,925
+    C535,790 435,705 318,665
+    C293,656 284,642 284,627
+    C284,612 293,598 318,588
+    C435,550 535,470 590,325 Z"/>
+  <rect x="522" y="553" width="65" height="130" rx="32.5" fill="#000"/>
+  <rect x="668" y="553" width="65" height="130" rx="32.5" fill="#000"/>
 </svg>
