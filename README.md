@@ -1,6 +1,10 @@
 # MILION
 
-**Beyond Every Strategy.**
+<p align="center">
+  <img src="public/milion-logo.svg" alt="MILION mascot logo" width="120" />
+</p>
+
+<p align="center"><strong>Beyond Every Strategy.</strong></p>
 
 MILION is a trading strategy creation, backtesting, and publishing platform. It gives traders a place to build their own strategies, evaluate them using historical market data, and publish them for free or monetize their work while keeping their strategy rules private.
 
@@ -35,6 +39,14 @@ The tagline communicates that MILION is more than a strategy tool: it is an ecos
 ## 2. Logo and Mascot
 
 The MILION identity uses an independent mascot symbol rather than a lettermark.
+
+### Primary logo
+
+The approved mascot asset is stored at:
+
+`public/milion-logo.svg`
+
+![MILION mascot logo](public/milion-logo.svg)
 
 ### Approved mascot direction
 
